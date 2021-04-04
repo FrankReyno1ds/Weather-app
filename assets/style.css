@@ -1,0 +1,26 @@
+.container {
+    background-color: black;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    box-shadow: 2px 2px 5px;
+}
+
+.display-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+    color:darkturquoise;
+}
+
+.lead {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: darkturquoise;
+}
+
+.jumbotron{
+    background-color: lightsteelblue;
+}
