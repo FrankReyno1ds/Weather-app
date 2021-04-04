@@ -1,8 +1,11 @@
 .container {
     background-color: black;
+    /* border-radius: 3px; */
     /* display: flex;
     justify-content: center;
     align-items: center; */
+    border: solid black;
+    border-radius: 5px;
     box-shadow: 2px 2px 5px;
 }
 
@@ -11,16 +14,20 @@
     justify-content: center;
     align-items: center;
     font-weight: 800;
-    color:darkturquoise;
+    color:lightsteelblue;
 }
 
 .lead {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: darkturquoise;
+    color: white;
 }
 
 .jumbotron{
     background-color: lightsteelblue;
+}
+
+.card-group{
+    height: 50vh;
 }
